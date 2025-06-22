@@ -1,7 +1,6 @@
 Hello 👋 ,  My name is Prathi Maria Rose
 ===========================
-Senior Executive in Procurement and Customer Engagement.
----------------------------
+
 * 🌱 I’m currently learning **PostgreSQL and Python**
 * 🌍 Based in Chennai, India.
 * ✉️ You can contact me at prathi042@gmail.com
