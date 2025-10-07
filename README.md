@@ -1,9 +1,19 @@
 Hello 👋 ,  My name is Prathi Maria Rose
 ===========================
 
-* 🌱 I’m currently learning **PostgreSQL and Python**
+* 🌱 Aspiring Python developer
 * 🌍 Based in Chennai, India.
 * ✉️ You can contact me at prathi042@gmail.com
+
+
+### Tech Skills
+<p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg" height="36" alt="Python" /></a> 
+<a href="http://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" height="36" alt="PostgreSQL" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/html-5.svg?response-content-disposition=attachment%3Bfilename%3Dhtml-5.svg" height="36" alt="HTML" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/css-3.svg?response-content-disposition=attachment%3Bfilename%3Dcss-3.svg" height="36" alt="CSS" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=tGvHBPJaKqEd&format=gif&name=icons8-javascript.gif" height="36" alt="JavaScript" /></a>   
+</p>
 
 ### Socials
 <p>
